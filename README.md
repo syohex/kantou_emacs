@@ -4,6 +4,9 @@
 
 2016-04-23(土) 13:00 - 18:00 at Pixiv
 
+- [ポジションペーパ(.odg)](003/position-paper.odg)
+- [発表資料(.odp)](003/dynamic-module.odp)
+
 ## 第 2回関東 Emacs勉強会
 
 2015/04/04(土) 13:30 - 18:00 at アイスタイル
